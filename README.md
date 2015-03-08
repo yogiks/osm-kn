@@ -1,3 +1,5 @@
-# OpenStreetMap in Kannada using OSM Bright 
+# OpenStreetMap in Kannada using OSM Bright Style from Mapbox
 
-This map shows labels in Kannada(ಕನ್ನಡ) using OSM Bright Stylesheet of Mapbox.
+Map is live [here!] (yogiks.github.io/osm-kn)
+
+
