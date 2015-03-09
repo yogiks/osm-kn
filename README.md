@@ -1,5 +1,8 @@
-# OpenStreetMap in Kannada using OSM Bright Style from Mapbox
+# OpenStreetMap in Kannada created with Mapbox Studio 
 
-Map is live [here!] (yogiks.github.io/osm-kn)
+Map is live [here!] (https://yogiks.github.io/osm-kn)
 
+Thanks to [Arun] (https://github.com/planemad) for all his inputs. :)
+
+To use this, install Mapbox Studio and pull the styles into your Mapbox projects folder.
 
